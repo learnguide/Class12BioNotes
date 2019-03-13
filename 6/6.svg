@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_6{
+fill: #FFFFFF;
+}
+]]></style>
+</defs>
+<path fill-rule="evenodd" d="M52.8,299.6H857.2V55H52.8V299.6Z" class="g0_6" />
+<path fill-rule="evenodd" d="M80.3,714.1H857.2V320.9H80.3V714.1Z" class="g0_6" />
+<path fill-rule="evenodd" d="M52.8,756.3H857.2v-21H52.8v21Z" class="g0_6" />
+<path fill-rule="evenodd" d="M80.3,819.3H857.2V777.5H80.3v41.8Z" class="g0_6" />
+<image preserveAspectRatio="none" x="57" y="55" width="437" height="245" xlink:href="img/1.png" />
+<image preserveAspectRatio="none" x="123" y="321" width="496" height="393" xlink:href="img/2.png" />
+<g fill="#000000" >
+<use xlink:href="#f0_q" transform="matrix(8,0,0,8,792.9,1264.1)" />
+</g>
+<defs>
+<path d="M435,92c0,0,86,0,147,69c0,0,60,68,60,186c0,0,0,114,-60,179c0,0,-60,66,-152,66c0,0,-91,0,-154,-66c0,0,-64,-65,-64,-171c0,0,0,-70,30,-133c0,0,29,-64,82,-97c0,0,52,-33,111,-33Zm3,-110c0,0,-168,0,-274,123C164,105,58,228,58,512c0,0,0,317,117,461c0,0,102,125,275,125c0,0,129,0,212,-72c0,0,82,-72,99,-200L627,815c0,0,-18,79,-51,115c0,0,-54,58,-134,58c0,0,-64,0,-113,-36c0,0,-63,-46,-99,-135c0,0,-37,-89,-38,-253c0,0,48,74,118,110c0,0,70,36,147,36c0,0,135,0,229,-99c0,0,94,-99,94,-256c0,0,0,-103,-44,-191C736,164,691,75,614,28c0,0,-78,-46,-176,-46Z" 
+id="f0_q"
+transform="scale(0.001,-0.001)" />
+
+
+</defs>
+</svg>
